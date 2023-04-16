@@ -1,4 +1,4 @@
-package hmif.penyisihan;
+package hmif.babak_penyisihan;
 
 import java.util.Arrays;
 
