@@ -16,3 +16,8 @@ Repositori menampung soal, jawaban, dan testcase dari IF FEST Akademik 2023.
 
 - [Babak Penyisihan](src/test/java/hmif/babak_penyisihan/)
 - [Babak Final](src/test/java/hmif/babak_final/)
+
+Menjalankan Unit Test :
+```bash
+$ mvn test
+```
