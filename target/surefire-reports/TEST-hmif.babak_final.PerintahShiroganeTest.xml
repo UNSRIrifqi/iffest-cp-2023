@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="hmif.babak_final.PerintahShiroganeTest" time="0.061" tests="11" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="20"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\Dewa Sheva Dzaky\Desktop\Akademik HMIF\IF Fest 2023\Competitive Programming\iffest-cp-2023\target\test-classes;C:\Users\Dewa Sheva Dzaky\Desktop\Akademik HMIF\IF Fest 2023\Competitive Programming\iffest-cp-2023\target\classes;C:\Users\Dewa Sheva Dzaky\.m2\repository\org\junit\jupiter\junit-jupiter\5.8.0\junit-jupiter-5.8.0.jar;C:\Users\Dewa Sheva Dzaky\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.0\junit-jupiter-api-5.8.0.jar;C:\Users\Dewa Sheva Dzaky\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Dewa Sheva Dzaky\.m2\repository\org\junit\platform\junit-platform-commons\1.8.0\junit-platform-commons-1.8.0.jar;C:\Users\Dewa Sheva Dzaky\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Dewa Sheva Dzaky\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.8.0\junit-jupiter-params-5.8.0.jar;C:\Users\Dewa Sheva Dzaky\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.0\junit-jupiter-engine-5.8.0.jar;C:\Users\Dewa Sheva Dzaky\.m2\repository\org\junit\platform\junit-platform-engine\1.8.0\junit-platform-engine-1.8.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Jakarta"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="20"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-20\bin"/>
+    <property name="sun.java.command" value="C:\Users\DEWASH~1\AppData\Local\Temp\surefire4331192447038051255\surefirebooter11409642135134103209.jar C:\Users\Dewa Sheva Dzaky\AppData\Local\Temp\surefire4331192447038051255 2023-04-16T22-33-12_413-jvmRun1 surefire5327774843301522476tmp surefire_05032280683837225529tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\Dewa Sheva Dzaky\Desktop\Akademik HMIF\IF Fest 2023\Competitive Programming\iffest-cp-2023\target\test-classes;C:\Users\Dewa Sheva Dzaky\Desktop\Akademik HMIF\IF Fest 2023\Competitive Programming\iffest-cp-2023\target\classes;C:\Users\Dewa Sheva Dzaky\.m2\repository\org\junit\jupiter\junit-jupiter\5.8.0\junit-jupiter-5.8.0.jar;C:\Users\Dewa Sheva Dzaky\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.0\junit-jupiter-api-5.8.0.jar;C:\Users\Dewa Sheva Dzaky\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Dewa Sheva Dzaky\.m2\repository\org\junit\platform\junit-platform-commons\1.8.0\junit-platform-commons-1.8.0.jar;C:\Users\Dewa Sheva Dzaky\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Dewa Sheva Dzaky\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.8.0\junit-jupiter-params-5.8.0.jar;C:\Users\Dewa Sheva Dzaky\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.0\junit-jupiter-engine-5.8.0.jar;C:\Users\Dewa Sheva Dzaky\.m2\repository\org\junit\platform\junit-platform-engine\1.8.0\junit-platform-engine-1.8.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Dewa Sheva Dzaky"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2023-03-21"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-20"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\Dewa Sheva Dzaky\Desktop\Akademik HMIF\IF Fest 2023\Competitive Programming\iffest-cp-2023"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\DEWASH~1\AppData\Local\Temp\surefire4331192447038051255\surefirebooter11409642135134103209.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="20+36-2344"/>
+    <property name="user.name" value="Dewa Sheva Dzaky"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\Dewa Sheva Dzaky\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\DEWASH~1\AppData\Local\Temp\"/>
+    <property name="java.version" value="20"/>
+    <property name="user.dir" value="C:\Users\Dewa Sheva Dzaky\Desktop\Akademik HMIF\IF Fest 2023\Competitive Programming\iffest-cp-2023"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-20\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Dewa Sheva Dzaky\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Dewa Sheva Dzaky\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Git\cmd;C:\Program Files\PuTTY;C:\ProgramData\ComposerSetup\bin;C:\Program Files\nodejs;C:\Program Files\Java\jdk-20\bin;C:\Program Files\apache-maven-3.8.8\bin;C:\Users\Dewa Sheva Dzaky\AppData\Local\Programs\Python\Python311\Scripts;C:\Users\Dewa Sheva Dzaky\AppData\Local\Programs\Python\Python311;C:\Users\Dewa Sheva Dzaky\AppData\Local\Microsoft\WindowsApps;C:\xampp\php;C:\Users\Dewa Sheva Dzaky\AppData\Roaming\Composer\vendor\bin;C:\Users\Dewa Sheva Dzaky\AppData\Roaming\npm;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="20+36-2344"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="64.0"/>
+  </properties>
+  <testcase name="test10" classname="hmif.babak_final.PerintahShiroganeTest" time="0.035"/>
+  <testcase name="test0" classname="hmif.babak_final.PerintahShiroganeTest" time="0"/>
+  <testcase name="test1" classname="hmif.babak_final.PerintahShiroganeTest" time="0.001"/>
+  <testcase name="test2" classname="hmif.babak_final.PerintahShiroganeTest" time="0.001"/>
+  <testcase name="test3" classname="hmif.babak_final.PerintahShiroganeTest" time="0.001"/>
+  <testcase name="test4" classname="hmif.babak_final.PerintahShiroganeTest" time="0"/>
+  <testcase name="test5" classname="hmif.babak_final.PerintahShiroganeTest" time="0.001"/>
+  <testcase name="test6" classname="hmif.babak_final.PerintahShiroganeTest" time="0.002"/>
+  <testcase name="test7" classname="hmif.babak_final.PerintahShiroganeTest" time="0.001"/>
+  <testcase name="test8" classname="hmif.babak_final.PerintahShiroganeTest" time="0.002"/>
+  <testcase name="test9" classname="hmif.babak_final.PerintahShiroganeTest" time="0.001"/>
+</testsuite>
